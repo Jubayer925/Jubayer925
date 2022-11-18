@@ -1,8 +1,5 @@
-![I am student and learning app devolopment](https://scontent.fcla5-1.fna.fbcdn.net/v/t39.30808-6/240600919_1499497057051021_8054616481927147928_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeGBbwO2nIbjNp3tqAGasWdCPu_bi_YakW4-79uL9hqRbqJyp9Hvdmqu1TpgrJSKc338bTD5BPelOYth6ubQ7q6Z&_nc_ohc=Ip9Lt_rveSEAX88htzo&_nc_zt=23&_nc_ht=scontent.fcla5-1.fna&oh=00_AfCGkU-0Az3NcsZbdRFiuKlwA17L76nr0FnnnBlHW7Puew&oe=637C252E)
-
 ### Hi there 👋, my name is MD. Jubayer
 #### I am student and learning app devolopment
-
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
@@ -28,3 +25,4 @@ Skills: C / C++ /PYTHON
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Jubayer925)  
 
 ![Profile views](https://gpvc.arturio.dev/Jubayer925)  
+![I am student and learning app devolopment](https://scontent.fcla5-1.fna.fbcdn.net/v/t39.30808-6/240600919_1499497057051021_8054616481927147928_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeGBbwO2nIbjNp3tqAGasWdCPu_bi_YakW4-79uL9hqRbqJyp9Hvdmqu1TpgrJSKc338bTD5BPelOYth6ubQ7q6Z&_nc_ohc=Ip9Lt_rveSEAX88htzo&_nc_zt=23&_nc_ht=scontent.fcla5-1.fna&oh=00_AfCGkU-0Az3NcsZbdRFiuKlwA17L76nr0FnnnBlHW7Puew&oe=637C252E)
