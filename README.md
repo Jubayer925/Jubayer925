@@ -3,6 +3,6 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: Swift / C++ / iOS / UIkit 
+Skills: Swift / Dart/ C++ / iOS / UIkit / Flutter
 
-- I’m currently learning iOS developing 
+- I’m currently working with Flutter and Native iOS development
