@@ -1,27 +1,182 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Production Flutter applications and mobile game projects.<br><br>👯 I’m looking to collaborate on<br>Flutter, mobile application, and open-source projects.<br><br>🤝 I’m looking for help with<br>Advanced Flutter architecture, performance optimization, and scalable mobile systems.<br><br>🌱 I’m currently learning<br>Advanced Flutter, system design, algorithms, and modern mobile development practices.<br><br>💬 Ask me about<br>Flutter, Dart, GetX, Provider, REST APIs, Firebase, payments, WebSockets, and mobile app deployment.
+# 👋 Hi, I'm Jubayer Hossain Hridoy
 
+### 📱 Mobile Application Developer | Flutter
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jubayerhhridoy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jubayerhhridoy@gmail.com) 
+I'm a Flutter developer with **2 years of professional experience** building and maintaining production mobile applications.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jubayer925&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jubayer925&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jubayer925&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I've contributed to **13+ mobile applications** and worked on the deployment of **7+ applications** to the Google Play Store and Apple App Store.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jubayer925&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jubayer925&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I enjoy building clean, scalable mobile applications and solving challenging technical problems.
 
 ---
-[![](https://komarev.com/ghpvc/?username=jubayer925&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+🔭 **Currently working on**  
+Production Flutter applications and mobile game projects.
+
+🚀 **Experienced with**  
+Flutter, Dart, REST APIs, GetX, Provider, Firebase, WebSockets, payments, subscriptions, and CI/CD.
+
+🌱 **Currently learning**  
+Advanced Flutter architecture, system design, algorithms, and scalable application development.
+
+💬 **Ask me about**  
+Flutter, Dart, GetX, Provider, Firebase, REST APIs, WebSockets, payment integration, and mobile app deployment.
+
+🏆 **Competitive Programming**  
+400+ problems solved across online judges and participated in the ICPC Dhaka Regional onsite contest.
+
+---
+
+## 🛠️ Tech Stack
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+### Programming
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### State Management & Backend
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
+![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![WebSocket](https://img.shields.io/badge/WebSocket-333333?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Payments & Services
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Firebase Analytics](https://img.shields.io/badge/Firebase%20Analytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Crashlytics](https://img.shields.io/badge/Crashlytics-EF4444?style=for-the-badge&logo=firebase&logoColor=white)
+
+### Tools & Development
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=black)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 DoutorFácil
+**50K+ Downloads**
+
+Healthcare consultation platform supporting patient and doctor workflows.
+
+- Doctor discovery and consultation booking
+- Patient and doctor roles
+- Stripe payment integration
+- WebSocket real-time chat
+- Mevo prescription integration
+- PDF generation and viewing
+- Ratings and profile management
+
+**Tech:** Flutter · Dart · REST API · Provider · Stripe · WebSocket · PDF
+
+---
+
+### 🩺 The Sciatica System App
+
+Mobile application focused on structured learning and user progress.
+
+- Progress-based lesson unlocking
+- Video lessons
+- Achievement sharing
+- Community discussions
+- In-app subscriptions
+- REST API integration
+
+**Tech:** Flutter · Dart · GetX · REST API · In-App Subscription
+
+---
+
+### ⏱️ Prevailing Wage Timekeeper
+
+Production mobile application for timekeeping and attendance management.
+
+- Employee check-in/check-out
+- Work-hour calculations
+- REST API integration
+- Premium subscription
+- Responsive UI based on Figma
+- Published on the Apple App Store
+
+**Tech:** Flutter · Dart · REST API · In-App Subscription · Figma
+
+---
+
+### 🎯 Discover Anan
+
+Activity-based booking platform with multilingual support.
+
+- Activity discovery and booking
+- Save and share activities
+- Gifting and social sharing
+- TAP Payment Gateway
+- Multilingual support
+- RTL/LTR compatibility
+
+**Tech:** Flutter · Dart · GetX · REST API · TAP Payment Gateway · Localization
+
+---
+
+## 💼 Professional Experience
+
+### Junior Flutter Developer — Softvence Agency
+**Apr 2025 – Present**
+
+- Develop and maintain production Flutter applications.
+- Build features using Flutter, Dart, GetX/Provider, and REST APIs.
+- Implement authentication, booking, payment, subscription, and notification systems.
+- Integrate Firebase Analytics, Crashlytics, and push notifications.
+- Work with localization and RTL/LTR applications.
+- Contribute to CI/CD and App Store / Google Play deployment.
+
+### Mobile App Developer Intern — Appnotrix
+**Oct 2024 – Feb 2025**
+
+- Contributed to Flutter mobile application development.
+- Implemented user interfaces and application features.
+- Worked with Dart, APIs, and the development team throughout the development lifecycle.
+
+---
+
+## 🏆 Achievements
+
+- 🧩 **400+ competitive programming problems solved**
+- 🏅 **ICPC Dhaka Regional 2023 — Onsite Participant**
+- 🏆 **SUST IUPC 2023 — Participant**
+- 💻 **Intra BBPI Programming Contest — Participant**
+- 📱 Contributed to **13+ mobile applications**
+- 🚀 Worked on **7+ published mobile applications**
+
+---
+
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=Jubayer925&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jubayer925&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jubayer925&theme=dark&hide_border=true&layout=compact&langs_count=8)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jubayerhhridoy/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jubayer925)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jubayerhhridoy@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/jubayerhhridoy)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Jubayer925&label=Profile%20Views&color=0e75b6&style=flat)
