@@ -8,27 +8,6 @@ I've contributed to **13+ mobile applications** and worked on the deployment of 
 
 I enjoy building clean, scalable mobile applications and solving challenging technical problems.
 
----
-
-## 💫 About Me
-
-🔭 **Currently working on**  
-Production Flutter applications and mobile game projects.
-
-🚀 **Experienced with**  
-Flutter, Dart, REST APIs, GetX, Provider, Firebase, WebSockets, payments, subscriptions, and CI/CD.
-
-🌱 **Currently learning**  
-Advanced Flutter architecture, system design, algorithms, and scalable application development.
-
-💬 **Ask me about**  
-Flutter, Dart, GetX, Provider, Firebase, REST APIs, WebSockets, payment integration, and mobile app deployment.
-
-🏆 **Competitive Programming**  
-400+ problems solved across online judges and participated in the ICPC Dhaka Regional onsite contest.
-
----
-
 ## 🛠️ Tech Stack
 
 ### Mobile Development
@@ -157,18 +136,6 @@ Activity-based booking platform with multilingual support.
 - 💻 **Intra BBPI Programming Contest — Participant**
 - 📱 Contributed to **13+ mobile applications**
 - 🚀 Worked on **7+ published mobile applications**
-
----
-
-## 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=Jubayer925&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jubayer925&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jubayer925&theme=dark&hide_border=true&layout=compact&langs_count=8)
-
----
 
 ## 🤝 Connect With Me
 
